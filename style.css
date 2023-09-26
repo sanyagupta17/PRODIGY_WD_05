@@ -1,0 +1,39 @@
+body {
+    background-image: url("https://wallpaperaccess.com/full/2199583.jpg");
+    background-repeat: no-repeat;
+    background-size: 1550px 750px;
+}
+
+.container {
+    max-width: 980px;
+    margin-top: 40px;
+}
+
+.row {
+    margin-top: 50px;
+}
+
+.my-4 {
+    color:rgb(135, 15, 87);
+}
+
+
+.navbar{
+    background-color: rgb(155, 29, 174);
+    color: white;
+}
+
+.card {
+    border-color: rgb(241, 59, 165);
+    color: rgb(180, 14, 14);
+}
+
+.card-header {
+    background-color: rgb(241, 59, 165);
+    border-color: rgb(241, 59, 165);
+    color: rgb(112, 8, 136);
+}
+
+.btn:hover {
+    background-color: rgb(241, 59, 165);
+}
