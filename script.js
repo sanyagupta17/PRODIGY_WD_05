@@ -3,7 +3,7 @@ const options = {
     method: 'GET',
     headers: { 
         accept: 'application/json',
-        'apikey':'kOUFkZ1L8hTDLV9NN5dP9JSTcMvT0ujJ'
+        'apikey':'your_api_key'
     }
 };
 
